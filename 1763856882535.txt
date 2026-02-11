@@ -1,4 +1,4 @@
-shared['Auth_Key'] = ''
+shared['Auth_Key'] = 'L'
 shared.Saved = {
     ['G​e​n​e​r​a​l​'] = { 
         ['​H​o​t​k​e​y​s​'] = { 
@@ -3036,4 +3036,5 @@ end
             UpdateDrawings()
             AutomatedPrediction()
         end))
+
     end
